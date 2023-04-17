@@ -1,0 +1,39 @@
+a.Menu1 {
+    cursor: pointer;
+}
+
+.login {
+    /*background: url("/img/background-log.jpg");*/
+    background-color: #e3e4e5;
+    background-size: auto;
+}
+
+.btn-autorizar {
+    background: #e29235 !important;
+    color: #fff;
+}
+
+.btn-editar {
+    background: #e28427 !important;
+    color: #fff;
+}
+
+.btn-eliminar {
+    background: #f99d41 !important;
+    color: #fff;
+}
+
+.btn-pruebas {
+    background: #f99d41 !important;
+    color: #fff;
+}
+
+.btn-vista {
+    background: #e29e60 !important;
+    color: #fff;
+}
+
+.bg-gradient-primary {
+    /*  background: #444e8d !important;*/
+    background-color: #808000;
+}
